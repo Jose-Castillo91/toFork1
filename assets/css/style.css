@@ -34,6 +34,20 @@ body {
   padding: 2em;
 }
 
+.votacion-perros{
+  display: flex ;
+  text-align: center;
+}
+.sultan-hermoso{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40%;
+  
+}
+.blanca-hermosa{
+  width: 40%;
+}
 .footer {
   height: 3em;
   line-height: 3m;
